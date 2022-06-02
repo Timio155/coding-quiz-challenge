@@ -108,8 +108,8 @@ var questionIndex = 0;
     },
     {
         question: "How to write an IF statement in JavaScript?",
-        choices: ["a. if i == 5 then", "b. if i = 5 then", "c. if(i == 5)", "d. if i = 5"],
-        answer: "c. if(i == 5)"
+        choices: ["a. if i == 4 then", "b. if i = 4 then", "c. if(i == 4)", "d. if i = 4"],
+        answer: "c. if(i == 4)"
     },
     {
         question: "How do you add a comment in a JavaScript?",
